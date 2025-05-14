@@ -8,7 +8,7 @@ Contactos
 
 **Título y descripción**
 
-Café de especialidad en Triple Peaks
+Cafe de especialidad en triple peaks
 ¡Te damos la bienvenida a nuestra zona de estudio! Aquí tenemos café para darte energía y motivar tu creatividad.
 
 **Horarios y dirección**
