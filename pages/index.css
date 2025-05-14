@@ -51,22 +51,22 @@
 .header__title{ 
     padding-left: 80px;
     padding-top: 183px;
-        font-family: "Inter";
-         font-style: normal; 
-         font-weight: 500; 
-         font-size: 58px; 
-         line-height: 72px;
-         letter-spacing: -1px;
-         max-width: 709px;
+    font-family: "Inter";
+    font-style: normal; 
+    font-weight: 500; 
+    font-size: 58px; 
+    line-height: 72p;
+    letter-spacing: -1px;
+    max-width: 709px;
 }
 .span-accent{
-       font-family: "Noto Serif";
-         font-style: italic;
-         font-weight: normal; 
-         font-size: 58px; 
-         line-height: 72px;
-         color: #2F80ED;
-         display: block;
+        font-family: "Noto Serif";
+        font-style: italic;
+        font-weight: normal; 
+        font-size: 58px; 
+        line-height: 72px;
+        color: #2F80ED;
+        display: block;
 }
 .header__description{
     font-family: "Noto Serif"; 
@@ -74,9 +74,9 @@
     font-weight: normal; 
     font-size: 20px; 
     line-height: 30px;
-  max-width: 683px;
-  padding-left: 80px;
-  padding-top: 28px;
+    max-width: 683px;
+    padding-left: 80px;
+    padding-top: 28px;
 }
 .header__image{
     position: absolute;
